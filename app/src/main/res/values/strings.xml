@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">RobustaTask</string>
+    <string name="humidity">Humidity</string>
+    <string name="wind">Wind</string>
+    <string name="cloudiness">Cloudiness</string>
+    <string name="pressure">Pressure</string>
+    <string name="no_internet_connection"> No Internt Connection</string>
+    <string name="error_occured"> An Error Occured</string>
+    <string name="percentage"> % </string>
+    <string name="speed"> m/s </string>
+    <string name="degree">° </string>
+    <string name="hPa">hPa</string>
+</resources>
